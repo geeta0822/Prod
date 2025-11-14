@@ -1,3 +1,4 @@
 resources "aws_instance" "local"
 type: t2.micro
 ami: 12345678766
+vpc: 1234567
